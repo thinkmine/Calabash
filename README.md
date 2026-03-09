@@ -33,11 +33,9 @@ Forward-looking CIOs are building AI-ready architectures.  They worry about unco
 # Strategic Value Over the Next 5 Years
 Calabash aligns with several emerging enterprise patterns.
 
-- __Tool-Based AI Architectures__ - AI systems will rely on tool ecosystems. Instead of static prompts agents will call capabilities.  In this ecosystem Calabash becomes a tool platform.
-- __Enterprise Agent Platforms__ - Enterprises will deploy hundreds of agents. They need skill registries, secure execution environments, orchestration layers.  Calabash provides this.
-- __*AI-Enabled Legacy Systems__ - Most companies cannot rewrite core systems. Calabash allows them to wrap legacy systems in AI interfaces.
-- __*Model-Agnostic AI Infrastructure__ - Companies will switch models frequently. Your platform keeps their AI capabilities stable.
 
+# Helpful Links
+- [Calabash Product Introduction](StartupInstructions.md)
 - [Calabash Product Introduction](Introduction.md)
-- [Agent Infrastructure Platform](agent-infrastructure-platform.md)
+- [Agent Infrastructure Platform](AgentInfrastructurePlatform.md)
 
