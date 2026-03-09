@@ -38,6 +38,6 @@ Calabash aligns with several emerging enterprise patterns.
 - __*AI-Enabled Legacy Systems__ - Most companies cannot rewrite core systems. Calabash allows them to wrap legacy systems in AI interfaces.
 - __*Model-Agnostic AI Infrastructure__ - Companies will switch models frequently. Your platform keeps their AI capabilities stable.
 
-[Calabash Product Introduction](introduction.md)
-[Agent Infrastructure Platform](agent-infrastructure-platform.md)
+- [Calabash Product Introduction](Introduction.md)
+- [Agent Infrastructure Platform](agent-infrastructure-platform.md)
 
