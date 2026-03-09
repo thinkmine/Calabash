@@ -4,7 +4,7 @@ Calabash is an agent server that transforms existing enterprise capabilities int
 ### Calabash sits in a very strong product category
 Platforms like this will likely become core enterprise infrastructure because AI alone is not enough. LLMs can think but they cannot act without tools. Companies need Agent Infrastructure, Tool Ecosystems, and Governance layers. Calabash sits exactly there.
 
-# Core Problem of the AI Era
+# Core Problems of the AI Era
 The biggest barrier to AI adoption is not models — it’s integration.  Enterprises face four major problems as it relates to AI:
 
 ## 1. AI Cannot Safely Access Enterprise Systems
