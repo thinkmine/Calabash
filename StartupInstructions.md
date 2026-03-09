@@ -5,7 +5,7 @@
 1. Navigate to portal.azure.com and sign in with your portal credentials
 1. Click on the Create a resource button as shown in the image  
 
-   ![Calabash Logo](/images/startup-1.png)
+   ![Calabash Logo](/Images/startup-1.png)
 
 1. Type calabash into the search window and hit enter
 	
