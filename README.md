@@ -37,6 +37,7 @@ Calabash aligns with several emerging enterprise patterns.
 # Helpful Links
 - [Setup Instructions](StartupInstructions.md)
 - [Calabash Product Introduction](Introduction.md)
+- [Calabash Azure Marketplace Positioning](CalabashAzureMarketplacePositioning.md)
 - [Agent Infrastructure Platform](AgentInfrastructurePlatform.md)
 - [Calabash for Digital Sovereignty](DigitalSovereignty.md)
 
